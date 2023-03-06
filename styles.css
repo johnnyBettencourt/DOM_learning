@@ -1,0 +1,20 @@
+.section {
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 16%;
+}
+.section form{
+    padding-left: 0px; !important
+    text-align: center;
+
+}
+#success-message{
+    color: green;
+    text-align: center;
+    display: none;
+}
+#invalid{
+    color: red;
+    display: none;
+}
