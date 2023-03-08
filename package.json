@@ -1,0 +1,27 @@
+{
+  "name": "dom_learning",
+  "version": "1.0.0",
+  "description": "This project is a place for me to learn about how JS and HTML can interact. I will likely create little cards on the page to showcase examples.",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnyBettencourt/DOM_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnyBettencourt/DOM_learning/issues"
+  },
+  "homepage": "https://github.com/johnnyBettencourt/DOM_learning#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
