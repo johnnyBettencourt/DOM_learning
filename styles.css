@@ -18,3 +18,16 @@
     color: red;
     display: none;
 }
+
+.section-header{
+    border-bottom: 1px ridge;
+    margin-bottom: 10px;
+}
+
+.btn-spacer{
+    width: 10px;
+}
+
+.jumbotron{
+    background-image: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,50,255,1) 87%) ;
+}
